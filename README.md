@@ -38,7 +38,6 @@ I'm a **Full Stack Developer** passionate about building intelligent application
 
 - **Email:** [msherazedu@gmail.com]
 - **LinkedIn:** [in/muhammad-sheraz-014b32136](https://linkedin.com/in/muhammad-sheraz-014b32136)
-- **Portfolio:** [Your Portfolio Website]
 
 ---
 
